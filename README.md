@@ -1,5 +1,5 @@
 Hi, 
-You cann call me Swizz! 😄
+You can call me Swizz! 😄
 This is my first personal Github account.
 
 I have a bachelors degree in eletrical engineering and information technology at the university in Stuttgart (Ø1.9).
